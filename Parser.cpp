@@ -1,5 +1,5 @@
 // CS480 Summer 2026 Term
-// Assignment 2 - README File 
+// Assignment 2 - Parser.cpp
 
 // Team Members:
 // 1. Aayush Talati, class account: cssc3161
