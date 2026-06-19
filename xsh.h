@@ -1,12 +1,14 @@
-/*
- * Name: Aayush Talati
- * Class account username: atalati6901
- * Class information: CS 570
- * Assignment information: Assignment #2, Experimental Shell (XSH)
- * Filename: xsh.h
- *
- * Shared declarations for the XSH program.
- */
+// CS480 Summer 2026 Term
+// Assignment 2 - xsh.h
+
+// Team Members:
+// 1. Aayush Talati, class account: cssc3161
+// 2. Sparsh Mody, class account: cssc3001
+
+// Account used for testing:
+// cssc3161 / atalati6901
+// Shared declarations for the XSH program.
+ 
 
 #ifndef XSH_H
 #define XSH_H
