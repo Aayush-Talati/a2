@@ -1,12 +1,14 @@
-/*
- * Name: Aayush Talati
- * Class account username: atalati6901
- * Class information: CS 570
- * Assignment information: Assignment #2, Experimental Shell (XSH)
- * Filename: Shell.cpp
- *
- * Implements the interactive read/parse/execute loop for XSH.
- */
+// CS480 Summer 2026 Term
+// Assignment 2 - Shell.cpp
+
+// Team Members:
+// 1. Aayush Talati, class account: cssc3161
+// 2. Sparsh Mody, class account: cssc3001
+
+// Account used for testing:
+// cssc3161 / atalati6901
+// Implements the interactive read/parse/execute loop for XSH.
+ 
 
 #include "xsh.h"
 
